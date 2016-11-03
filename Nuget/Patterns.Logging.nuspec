@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
     <metadata>
         <id>Patterns.Logging</id>
-        <version>1.0.0.5</version>
+        <version>1.0.0.6</version>
         <title>Patterns.Logging</title>
         <authors>Emby Team</authors>
         <owners>ebr,Luke,scottisafool</owners>
@@ -13,6 +13,6 @@
         <copyright>Copyright © Emby 2013</copyright>
     </metadata>
     <files>
-        <file src="dlls\Patterns.Logging.dll" target="lib\netstandard1.0\Patterns.Logging.dll" />
+        <file src="dlls\Patterns.Logging.dll" target="lib\portable-net45+win8\Patterns.Logging.dll" />
     </files>
 </package>
